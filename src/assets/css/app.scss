@@ -1,0 +1,14 @@
+@import "breakpoints" ;
+
+body {
+    background-color: #141414;
+    font-family: Helvetica, Arial;
+}
+
+svg,
+img,
+span,
+li,
+button {
+    cursor: pointer;
+}
