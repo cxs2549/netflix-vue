@@ -1,4 +1,4 @@
-# reddit-vue
+# netflix-vue
 
 ## Project setup
 ```
